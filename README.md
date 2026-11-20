@@ -1,25 +1,25 @@
 # Hi, I'm Bishir Tijjani 👋
 
-Full-stack engineer based in Katsina, Nigeria. I build production systems end-to-end —
-web, mobile, and AI — and ship them to real users.
+Full-stack & mobile engineer. I design, build and ship complete products: React Native apps, web dashboards, Node.js APIs, payments and Docker infrastructure. Two of my apps are live in production on the App Store and Google Play.
 
 ## 🛠️ Stack
 
-**Frontend:** React, Next.js, React Native (Expo), Vite, Tailwind, Redux, TypeScript
-**Backend:** Node.js, Express, Python, Flask, REST, Socket.io, BullMQ
-**Data:** PostgreSQL, MongoDB, Redis, Prisma, Mongoose
-**Mobile:** React Native, Expo (iOS + Android + Web)
-**AI/ML:** Claude (Anthropic), scikit-learn, OpenAI APIs
-**Infra:** Docker, Nginx, Cloudflare, Vercel, GitHub Actions, webhooks
+**Mobile:** React Native, Expo (iOS & Android)
+**Web:** React, Next.js, Redux, Vite, Tailwind CSS
+**Backend:** Node.js, Express, TypeScript, REST, WebSockets (Socket.IO), BullMQ
+**Data:** PostgreSQL, Prisma, Redis, MongoDB, SQLite
+**DevOps:** Docker, Nginx, Cloudflare, VPS, CI/CD via GitHub webhooks
+**AI:** Claude (Anthropic) API, agent-based workflows
 
-## 🚀 Featured projects
+## 🚀 Featured work
 
-- **iPrime** — React Native super-app (wallet, logistics, utilities) with an Express/Prisma/Socket.io backend and BullMQ workers
-- **Codeket Restaurant** — Offline-first, multi-tenant POS + KDS + inventory (React, Node, MongoDB, Redis)
-- **MySooq Ecommerce** — Multi-vendor marketplace (React, Node, Prisma, PostgreSQL)
-- **AI Receptionist** — Claude-powered WhatsApp/Instagram receptionist for med spas
-- **Chat & Wallet** — Social savings (ROSCA) platform with a double-entry ledger (Expo, Node, Postgres)
-- **Content OS** — Full content automation engine, 433 tests, zero runtime deps (Node 22)
+| Project | What it is | Proof |
+|---|---|---|
+| **Delivery & Wallet Super-App** ([repo](https://github.com/bishirtijjani/logistics)) | Delivery + digital wallet + bill-payments super-app: 3 React Native apps (customer, rider, merchant) and a Node.js/Prisma/PostgreSQL backend | Live on App Store & Google Play · 473 users, 90 merchants, 1,281 wallet transactions |
+| **Multi-Vendor Marketplace** ([repo](https://github.com/bishirtijjani/ecommerce-platform)) | Multi-vendor marketplace: Expo customer app, React admin & vendor dashboards, Node.js backend | Live on App Store, Google Play & web · 21 vendors, 350 products |
+| **Restaurant System** ([repo](https://github.com/bishirtijjani/restaurant-system)) | Offline-first, multi-tenant restaurant system: table service, kitchen display, inventory, analytics | PWA that keeps taking orders without internet |
+| **Content OS** ([repo](https://github.com/bishirtijjani/content-engine)) | AI-agent content automation engine: 5 engines, human approval gates, video rendering, multi-platform publishing | Zero runtime dependencies, 433 tests |
+| **AI Receptionist** ([repo](https://github.com/bishirtijjani/ai-receptionist-public)) | Claude-powered WhatsApp & Instagram receptionist | |
 
 ## 📫 Contact
 
