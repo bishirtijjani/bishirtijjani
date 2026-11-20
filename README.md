@@ -1,6 +1,6 @@
 # Hi, I'm Bishir Tijjani 👋
 
-Full-stack & mobile engineer. I design, build and ship complete products: React Native apps, web dashboards, Node.js APIs, payments and Docker infrastructure. Two of my apps are live in production on the App Store and Google Play.
+Full-stack & mobile engineer. I design, build and ship complete products: React Native apps, web dashboards, Node.js APIs, payments and Docker infrastructure.
 
 ## 🛠️ Stack
 
